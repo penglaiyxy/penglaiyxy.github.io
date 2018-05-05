@@ -95,16 +95,19 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "吴忠杰博士的存储之道",
+        href: "http://blog.51cto.com/alanwu"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "ictfox blog/ceph technology",
+        href: "http://www.yangguanjun.com"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Eric/ceph technology",
+        href: "http://blog.wjin.org"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "徐小胖/ceph",
+        href: "http://www.xuxiaopang.com"
+    },{
+	title: "磨磨/ceph"
+        href: "http://www.zphj1987.com"
     }
 ]
